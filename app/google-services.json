@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144317225677",
+    "project_id": "lab5authfitrah",
+    "storage_bucket": "lab5authfitrah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144317225677:android:2f10318db526444eabe784",
+        "android_client_info": {
+          "package_name": "com.example.lab5_androidauthentification_fitrah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144317225677-rbovqoljogg56m7v7f3oimv7l2chv48s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS8JBSFE-EYfT_bVrGzwpBuHmTlr5ZDAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144317225677-rbovqoljogg56m7v7f3oimv7l2chv48s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
